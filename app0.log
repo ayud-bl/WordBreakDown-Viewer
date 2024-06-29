@@ -1,0 +1,44 @@
+Apr 15, 2024 10:08:49 PM edu.curtin.app.App main
+INFO: Opening menu
+Apr 15, 2024 10:08:49 PM edu.curtin.app.App menu
+INFO: Reading wbs file
+Apr 15, 2024 10:08:49 PM edu.curtin.app.TaskFileIO readFile
+INFO: initialise temp hashmap
+Apr 15, 2024 10:08:49 PM edu.curtin.app.TaskFileIO readFile
+INFO: reading file contents
+Apr 15, 2024 10:08:49 PM edu.curtin.app.TaskFileIO readFile
+INFO: Adding new subtask A
+Apr 15, 2024 10:08:49 PM edu.curtin.app.TaskFileIO readFile
+INFO: Adding new subtask B
+Apr 15, 2024 10:08:49 PM edu.curtin.app.TaskFileIO readFile
+INFO: Adding new task C
+Apr 15, 2024 10:08:49 PM edu.curtin.app.TaskFileIO readFile
+INFO: Adding new subtask D
+Apr 15, 2024 10:08:49 PM edu.curtin.app.TaskFileIO readFile
+INFO: Adding new subtask E
+Apr 15, 2024 10:08:49 PM edu.curtin.app.TaskFileIO readFile
+INFO: Adding new subtask F
+Apr 15, 2024 10:08:49 PM edu.curtin.app.TaskFileIO readFile
+INFO: Adding new subtask G
+Apr 15, 2024 10:08:49 PM edu.curtin.app.TaskFileIO readFile
+INFO: Adding new task H
+Apr 15, 2024 10:08:49 PM edu.curtin.app.TaskFileIO readFile
+INFO: Adding new subtask I
+Apr 15, 2024 10:08:49 PM edu.curtin.app.TaskFileIO readFile
+INFO: Adding new task J
+Apr 15, 2024 10:08:49 PM edu.curtin.app.TaskFileIO readFile
+INFO: Adding new subtask K
+Apr 15, 2024 10:08:49 PM edu.curtin.app.TaskFileIO readFile
+INFO: Adding new subtask L
+Apr 15, 2024 10:08:49 PM edu.curtin.app.TaskFileIO readFile
+INFO: Adding new subtask M
+Apr 15, 2024 10:08:49 PM edu.curtin.app.TaskFileIO readFile
+INFO: Adding new task N
+Apr 15, 2024 10:08:49 PM edu.curtin.app.TaskFileIO readFile
+INFO: Adding new subtask O
+Apr 15, 2024 10:08:49 PM edu.curtin.app.TaskFileIO readFile
+INFO: Adding new subtask P
+Apr 15, 2024 10:08:49 PM edu.curtin.app.TaskFileIO readFile
+INFO: Adding new subtask Q
+Apr 15, 2024 10:08:49 PM edu.curtin.app.TaskFileIO readFile
+INFO: Adding new subtask R
